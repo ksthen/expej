@@ -535,3 +535,11 @@ require_once( 'functions-enfold.php');
  * add option to edit elements via css class
  */
 // add_theme_support('avia_template_builder_custom_css');
+
+
+//set advanced layout editor to debug
+add_action('avia_builder_mode', "builder_set_debug");
+function builder_set_debug()
+{
+	return "debug";
+}
