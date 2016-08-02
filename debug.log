@@ -2422,3 +2422,93 @@
 [30-Jul-2016 09:47:32 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
 [30-Jul-2016 09:47:32 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
 [30-Jul-2016 09:47:32 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 20:55:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /srv/www/ex/htdocs/wp-includes/update.php on line 123
+[01-Aug-2016 20:58:40 UTC] running wpo_cron_deactivate()
+[01-Aug-2016 21:01:12 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:01:13 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:01:17 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:05:01 UTC] PHP Notice: The data could not be converted to UTF-8. You MUST have either the iconv or mbstring extension installed. Upgrading to PHP 5.x (which includes iconv) is highly recommended. in /srv/www/ex/htdocs/wp-includes/class-simplepie.php on line 1446
+[01-Aug-2016 21:05:05 UTC] Checking DB size .... 
+[01-Aug-2016 21:05:05 UTC] Total Size .... 4112384
+[01-Aug-2016 21:05:05 UTC] Total Gain .... 0
+[01-Aug-2016 21:05:53 UTC] Checking DB size .... 
+[01-Aug-2016 21:05:53 UTC] Total Size .... 4112384
+[01-Aug-2016 21:05:53 UTC] Total Gain .... 0
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_commentmeta
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_comments
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_itsec_lockouts
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_itsec_log
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_itsec_temp
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_layerslider
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_links
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_login_redirects
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_options
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_postmeta
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_posts
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_term_relationships
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_term_taxonomy
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_termmeta
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_terms
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_usermeta
+[01-Aug-2016 21:05:53 UTC] optimizing .... wp_users
+[01-Aug-2016 21:05:53 UTC] Total Gain .... 0
+[01-Aug-2016 21:07:11 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:34 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:34 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:14:54 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:54 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:54 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:14:55 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:14:55 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:17:43 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:17:54 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:18:02 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:02 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:02 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:18:41 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:18:41 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 338
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 341
+[01-Aug-2016 21:19:30 UTC] PHP Notice:  Undefined index: index in /srv/www/ex/htdocs/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_gallery.php on line 342
+[01-Aug-2016 21:19:31 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:20:25 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:20:36 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:20:45 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:23:10 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[01-Aug-2016 21:23:16 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
+[02-Aug-2016 11:17:52 UTC] PHP Warning:  Parameter 1 to W3_Plugin_TotalCache::ob_callback() expected to be a reference, value given in /srv/www/ex/htdocs/wp-includes/functions.php on line 3549
