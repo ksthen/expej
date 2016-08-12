@@ -8,9 +8,6 @@ body{font-family:'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Aria
 
 .avia-menu-fx { height: 5px }
 
-
-
-
 .avia-multi-slideshow-button {
     min-width: 120px;
 }
@@ -25,6 +22,25 @@ body{font-family:'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Aria
   animation: avia-fadein 1.5s 1 ease-out !important;
 }
 
+#socket .container {
+text-align: center;
+}
+
+#socket .container {
+text-align: center;
+}
+
+#socket .copyright {
+float: none;
+}
+
+.copyright:before {
+content: "- ";
+}
+
+#main {
+background-color: #f8f8f8;
+}
 .container {width:100%;} .container .av-content-small.units {width:68%; }
 			
 			  .responsive .boxed#top , .responsive.html_boxed.html_header_sticky #header, 
