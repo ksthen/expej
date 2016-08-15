@@ -619,7 +619,7 @@ return array(
 	'widget.pagespeed.enabled' => true,
 	'widget.pagespeed.key' => '',
 	'notes.wp_content_changed_perms' => true,
-	'notes.wp_content_perms' => true,
+	'notes.wp_content_perms' => false,
 	'notes.theme_changed' => false,
 	'notes.wp_upgraded' => false,
 	'notes.plugins_updated' => false,
